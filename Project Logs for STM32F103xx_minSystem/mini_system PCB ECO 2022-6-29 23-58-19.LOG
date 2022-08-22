@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C5 Old Footprint=1608[0603] New Footprint=6-0805_M
+Change Component Footprint: Designator=C6 Old Footprint=1608[0603] New Footprint=6-0805_M
+Added Member To Class: ClassName=mini_system Member=Component LED2 LED
+Added Member To Class: ClassName=mini_system Member=Component R2 Res
+Added Room: Name=mini_system

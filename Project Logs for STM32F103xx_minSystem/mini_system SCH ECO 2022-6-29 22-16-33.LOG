@@ -1,0 +1,29 @@
+Replace Part * USB-C 16P in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with USB-C 16P from USB.IntLib
+Replace Part C1 Cap in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C5 Cap in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C6 Cap in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C7 Cap in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C9 Cap in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C10 Cap in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C12 Cap in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C13 Cap in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C14 Cap in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C15 Cap in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C? Cap in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part D? LED in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with LED from Miscellaneous Devices.IntLib
+Replace Part D? LED in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with LED from Miscellaneous Devices.IntLib
+Replace Part P1 Header 20 in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Header 20 from Miscellaneous Connectors.IntLib
+Replace Part P2 Header 20 in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Header 20 from Miscellaneous Connectors.IntLib
+Replace Part P3 Header 3X2 in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Header 3X2 from Miscellaneous Connectors.IntLib
+Replace Part P4 Header 4 in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Header 4 from Miscellaneous Connectors.IntLib
+Replace Part Power ME6211 in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with ME6211 from Common_Modules.IntLib
+Replace Part R3 Res in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Res from Miscellaneous Devices.IntLib
+Replace Part R4 Res in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Res from Miscellaneous Devices.IntLib
+Replace Part R? Res in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Res from Miscellaneous Devices.IntLib
+Replace Part R? Res in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Res from Miscellaneous Devices.IntLib
+Replace Part R? Res in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with Res from Miscellaneous Devices.IntLib
+Replace Part S? SW-PB in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with SW-PB from Miscellaneous Devices.IntLib
+Replace Part U1 STM32F103C8T6 in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with STM32F103C8T6 from STMicroelectronics STM32 F1.IntLib
+Replace Part U1 STM32F103C8T6 in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with STM32F103C8T6 from STMicroelectronics STM32 F1.IntLib
+Replace Part Y1 XTAL in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with XTAL from Miscellaneous Devices.IntLib
+Replace Part Y2 XTAL in D:\PCB\STM32F103xx_minSystem\mini_system.SchDoc with XTAL from Miscellaneous Devices.IntLib

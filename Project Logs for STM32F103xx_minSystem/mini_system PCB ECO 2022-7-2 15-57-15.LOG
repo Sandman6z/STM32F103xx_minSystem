@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+5 Pin=*-A4
+Added Pin To Net: NetName=+5 Pin=*-A9
+Added Pin To Net: NetName=+5 Pin=*-B4
+Added Pin To Net: NetName=+5 Pin=*-B9
+Added Room: Name=mini_system

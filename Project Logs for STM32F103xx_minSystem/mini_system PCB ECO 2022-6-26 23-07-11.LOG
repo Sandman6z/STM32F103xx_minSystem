@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=GND Pin=*-0
+Added Pin To Net: NetName=GND Pin=*-0
+Added Pin To Net: NetName=GND Pin=*-0
+Added Pin To Net: NetName=GND Pin=*-0
+Added Pin To Net: NetName=GND Pin=*-A1
+Added Pin To Net: NetName=GND Pin=*-A12
+Added Pin To Net: NetName=GND Pin=*-B1
+Added Pin To Net: NetName=GND Pin=*-B12
+Add Net: Net with name "NetD?_1" already exists
+Added Pin To Net: NetName=VCC Pin=*-A4
+Added Pin To Net: NetName=VCC Pin=*-A9
+Added Pin To Net: NetName=VCC Pin=*-B4
+Added Pin To Net: NetName=VCC Pin=*-B9
+Added Net: Name=VCC
+Added Member To Class: ClassName=mini_system Member=Component C12 Cap
+Added Member To Class: ClassName=mini_system Member=Component C? 104
+Added Member To Class: ClassName=mini_system Member=Component D? LED
+Added Member To Class: ClassName=mini_system Member=Component R? Res
+Added Member To Class: ClassName=mini_system Member=Component R? Res
+Added Room: Name=mini_system
