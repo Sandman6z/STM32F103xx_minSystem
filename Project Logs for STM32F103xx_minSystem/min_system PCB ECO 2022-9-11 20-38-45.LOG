@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=LED2 NewDesignator=PC13
+Added Pin To Net: NetName=D_P Pin=*-A6
+Added Pin To Net: NetName=D_N Pin=*-A7
+Added Pin To Net: NetName=D_P Pin=*-B6
+Added Pin To Net: NetName=D_N Pin=*-B7
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetPC13_1
+Added Room: Name=min_system

@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=min_system Member=Y1
+Added Component: Designator=X1(XTAL_3225)
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Pin To Net: NetName=OSC_N Pin=C13-1
+Added Pin To Net: NetName=OSC_N Pin=U1-6
+Added Pin To Net: NetName=OSC_N Pin=X1-1
+Added Net: Name=OSC_N
+Added Pin To Net: NetName=OSC_P Pin=C14-2
+Added Pin To Net: NetName=OSC_P Pin=U1-5
+Added Pin To Net: NetName=OSC_P Pin=X1-3
+Added Net: Name=OSC_P
+Added Differential Pair: Name=OSC
+Added Member To Class: ClassName=min_system Member=Component X1 XTAL_3225
+Added Room: Name=min_system

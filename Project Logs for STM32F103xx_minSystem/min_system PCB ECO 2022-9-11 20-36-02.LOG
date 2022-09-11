@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=D- Pin=R9-1
+Removed Pin From Net: NetName=D+ Pin=R11-1
+Change Component Comment : Designator=R3 Old Comment=104 New Comment=100k
+Change Component Comment : Designator=R4 Old Comment=104 New Comment=100k
+Change Component Comment : Designator=C1 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C2 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C3 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C4 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C7 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C10 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C5 Old Comment=105 New Comment=1uF
+Change Component Comment : Designator=C6 Old Comment=105 New Comment=1uF
+Change Component Comment : Designator=C15 Old Comment=223 New Comment=22nF
+Added Pin To Net: NetName=PA11 Pin=R9-1
+Added Pin To Net: NetName=PA12 Pin=R11-1
+Change Net Name : Old Net Name=PA11 New Net Name=D_N
+Change Net Name : Old Net Name=PA12 New Net Name=D_P
+Change Class Name : Old Net Name=mini_system New Net Name=min_system
+Added Differential Pair: Name=D
+Added Room: Name=min_system
