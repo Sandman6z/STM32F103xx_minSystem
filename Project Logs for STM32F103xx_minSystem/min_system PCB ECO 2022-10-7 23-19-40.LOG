@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=PC14 New Net Name=OSC32_P
+Change Net Name : Old Net Name=PC15 New Net Name=OSC32_N
+Added Differential Pair: Name=OSC32

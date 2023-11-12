@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=* NewDesignator=P1
+Change Component Designator: OldDesignator=C13 NewDesignator=PC13
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P5
+Change Net Name : Old Net Name=NetP3_3 New Net Name=NetP5_3
+Change Net Name : Old Net Name=NetP3_4 New Net Name=NetP5_4
+Added Member To Class: ClassName=min_system Member=Component PC13 LED

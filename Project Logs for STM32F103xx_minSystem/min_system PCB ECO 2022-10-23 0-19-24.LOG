@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=D_P Pin=*-A6
+Removed Pin From Net: NetName=D_N Pin=*-A7
+Removed Pin From Net: NetName=D_P Pin=*-B6
+Removed Pin From Net: NetName=D_N Pin=*-B7
+Removed Pin From Net: NetName=D_N Pin=R10-1
+Removed Pin From Net: NetName=D_P Pin=R11-1
+Added Pin To Net: NetName=USBD_N Pin=*-A7
+Added Pin To Net: NetName=USBD_N Pin=*-B7
+Added Pin To Net: NetName=USBD_N Pin=R10-1
+Added Net: Name=USBD_N
+Added Pin To Net: NetName=USBD_P Pin=*-A6
+Added Pin To Net: NetName=USBD_P Pin=*-B6
+Added Pin To Net: NetName=USBD_P Pin=R11-1
+Added Net: Name=USBD_P
+Added Differential Pair: Name=USBD
+Added Member To Class: ClassName=min_system Member=Component R5 Res
+Added Member To Class: ClassName=min_system Member=Component R9 10K

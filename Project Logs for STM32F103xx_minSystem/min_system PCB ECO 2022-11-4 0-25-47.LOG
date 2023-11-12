@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SWDIO Pin=P4-2
+Removed Pin From Net: NetName=SWCLK Pin=P4-3
+Removed Pin From Net: NetName=GND Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=SWDIO Pin=P4-3
+Added Pin To Net: NetName=SWCLK Pin=P4-4
+Added Member To Class: ClassName=min_system Member=Component C13 Cap
+Added Member To Class: ClassName=min_system Member=Component P1 USB-C 16P
+Added Member To Class: ClassName=min_system Member=Component P3 Header 20
